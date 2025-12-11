@@ -1,0 +1,10 @@
+.navbar {
+  background: #7d4108 !important;
+}
+.bg-dark {
+  background: #085e7d !important;
+}
+.card-img-top {
+  width: 100%;
+  height: 30vh;
+}
